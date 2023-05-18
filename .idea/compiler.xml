@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="factory_pattern" />
         <module name="builder_pattern" />
+        <module name="singleton_pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="builder_pattern" target="17" />
       <module name="factory_pattern" target="17" />
+      <module name="singleton_pattern" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
