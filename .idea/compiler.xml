@@ -6,14 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="factory_pattern" />
         <module name="builder_pattern" />
         <module name="singleton_pattern" />
+        <module name="adapter_pattern" />
+        <module name="factory_pattern" />
+        <module name="proxy_pattern" />
+        <module name="bridge_pattern" />
+        <module name="greeting_adapter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="adapter_pattern" target="17" />
+      <module name="bridge_pattern" target="17" />
       <module name="builder_pattern" target="17" />
       <module name="factory_pattern" target="17" />
+      <module name="greeting_adapter" target="17" />
+      <module name="proxy_pattern" target="17" />
       <module name="singleton_pattern" target="17" />
     </bytecodeTargetLevel>
   </component>

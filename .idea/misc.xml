@@ -6,6 +6,10 @@
         <option value="$PROJECT_DIR$/factory_pattern/pom.xml" />
         <option value="$PROJECT_DIR$/builder_pattern/pom.xml" />
         <option value="$PROJECT_DIR$/singleton_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/adapter_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/greeting_adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/proxy_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/bridge_pattern/pom.xml" />
       </list>
     </option>
   </component>

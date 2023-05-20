@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapter_pattern.iml" filepath="$PROJECT_DIR$/adapter_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bridge_pattern.iml" filepath="$PROJECT_DIR$/bridge_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/builder_pattern.iml" filepath="$PROJECT_DIR$/builder_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/design_patterns.iml" filepath="$PROJECT_DIR$/.idea/design_patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory_pattern/factory_pattern.iml" filepath="$PROJECT_DIR$/factory_pattern/factory_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greeting_adapter.iml" filepath="$PROJECT_DIR$/greeting_adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy_pattern.iml" filepath="$PROJECT_DIR$/proxy_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton_pattern.iml" filepath="$PROJECT_DIR$/singleton_pattern.iml" />
     </modules>
   </component>
