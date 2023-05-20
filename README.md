@@ -31,3 +31,9 @@ Design Pattern- 23 in Java Language
 
 
 ![adapter_pattern_uml_diagram](https://github.com/my0m1nk0/Design-Pattern-Java/assets/133027910/2180ee59-70c5-4054-afa2-ff7e4d291625)
+
+
+5.Proxy Pattern
+
+![proxy_pattern_uml_diagram](https://github.com/my0m1nk0/Design-Pattern-Java/assets/133027910/ac30287c-0408-4132-bae1-72d34755bd09)
+
